@@ -23,11 +23,13 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш_пользователь/имя_репозитория.git
+git clone https://github.com/rusik1233/class_bot_tg.git
+```
 2. Установите необходимые зависимости (например, через pip):
-bash
-
+```bash
+`
 pip install -r requirements.txt
+```
 Настройте токен бота и модель:
 
 Создайте бота через BotFather и получите токен.
