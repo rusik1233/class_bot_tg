@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+python-dotenv
+opencv-python
+# Зависимости для модели (например, tensorflow или torch)
+tensorflow; python_version >= "3.8"
+# или, если используете PyTorch:
+# torch
+# torchvision
