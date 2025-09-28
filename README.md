@@ -1,4 +1,4 @@
-# class_bot_tg
+
 # Cat Breed Identifier Telegram Bot
 
 Это интеллектуальный бот для Telegram, который помогает определить породу кошки по ее фотографии.
